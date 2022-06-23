@@ -1,0 +1,75 @@
+body {
+  background-color: Black;
+}
+
+
+.background_image {
+  background-image: url(img/Records.jpg);
+  
+  }
+  
+
+h1 {
+  
+
+
+  color: white;
+  text-align: center;
+   font-size: 100px;
+  }
+
+.p1 {
+  font-family: "verdana", "Segoe UI,"sans-serif";  
+  font-size: 20px;
+  color: white;
+} /
+
+.p2 {
+  font-family: "verdana", "Segoe UI,"sans-serif";
+  font-size: 20px;
+   text-align: center;
+   color: white;
+}  
+
+h2 {
+  color: white;
+  text-align: center;
+ 
+  font-family: "verdana", "Segoe UI,"sans-serif";
+  font-size: 25px;
+}
+
+
+h3, h4 {
+  color: white;
+   font-size: 16px;
+   font-family: "verdana", "Segoe UI,"sans-serif";
+  }
+  
+
+a1:link {
+  color: red;
+}
+
+
+a1:visited {
+  color: green;
+}
+
+
+a1:hover {
+  color: hotpink;
+}
+
+
+a1:active {
+  color: blue;
+}
+
+img {
+ 		font-family: "verdana", "Segoe UI,"sans-serif";  
+ 		font-size: 20px;
+ 		color: white;
+        font-weight: Bold;
+}
+  
